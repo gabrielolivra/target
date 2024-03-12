@@ -1,0 +1,21 @@
+1. 91
+3.a) 9
+  b) 128
+  c) 49
+  d) 100
+  e) 13
+  f) 20
+4. Eu iria fazer um algoritmo de busca binaria, como eu teria quantas tentativas quisesse se buscar pela 
+busca simples, no pior caso eu iria ter que testar todas as condições ate encontrar o resultado, ja na
+busca binaria, iria dividir pela metade, e no pior caso,estari cortando pela metade o número de 
+possíveis soluções a cada tentativa
+
+Ligo o interruptor
+Desligo o primeiro interruptor e ligo o segundo interruptor.
+Entro na sala onde estão as lâmpadas.
+Se uma lâmpada estiver acesa, sabemos que o interruptor 2 está conectado a essa lâmpada. 
+Neste caso não precisamos mais testar a terceira lâmpada.
+Se a segunda lâmpada estiver apagada, sabemos que a segunda lâmpada está conectada ao interruptor 
+Neste caso, também não precisamos mais testar a primeira lâmpada.
+Se nenhuma lâmpada estiver acesa, sabemos que o interruptor 1 está conectado à segunda lâmpada. 
+Então a primeira lâmpada está conectada ao interruptor 3
